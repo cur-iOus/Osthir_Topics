@@ -19,6 +19,9 @@ public class Main {
 		
 	}
 	
+	//this simple method takes only integer input from user
+	//it loops forever while getting nonInteger input
+	//and display user to enter a valid Integer
 	private static int getIntInput() {
 		int choice = 0;
 		
