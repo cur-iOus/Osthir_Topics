@@ -12,9 +12,7 @@ public class Main {
 		int myInteger;
 		
 		System.out.print("Enter an Integer: ");
-		
 		myInteger = getIntInput();
-		
 		System.out.print("Done!\nValid Integer: "+myInteger);
 		
 	}
